@@ -11,8 +11,8 @@ __pycache__/
 .venv/
 venv/
 
-# Agent working files, if inside the repository
-coding_workspace/
+# Agent working folder
+Codingspace/
 
 # Compiled programs
 build/
