@@ -1,0 +1,23 @@
+# Secret API keys
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Agent working files, if inside the repository
+coding_workspace/
+
+# Compiled programs
+build/
+*.exe
+*.o
+
+# Saved chat history
+.session.json

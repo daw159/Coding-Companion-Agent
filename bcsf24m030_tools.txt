@@ -1,0 +1,17 @@
+list_files
+read_file
+write_file 
+
+
+Edit_file   read teh previous content in the file and add more content according to requirments 
+file_conversion   convert the code file into the txt or some kinds ,but txt to cpp file is not possible or may be accoridng to syntax like txt have paragraph converting into cpp
+runs_file   it can execute on teh terminal
+rename file  can rename the file 
+cretaing_folder  can create a sub_folder in the working directory 
+rename_folder rename a sub_folder
+delete the folder (deleting teh folder and its all files inside it)
+debug_file  debugging teh coding file if any errors or problems inisde it 
+web_seacrh_ websecarh if he cannot undertand the problem 
+
+
+
